@@ -28,3 +28,16 @@ p {
   width: 70%;
   margin: 4rem auto;
 }
+
+.nav {
+  display: flex;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-bar span {
+  width: 40%;
+}
